@@ -7,7 +7,7 @@
  * @inches: the length in inches
  * @feet: the height in feet
  * @rem: the remainder which will be written in inches
- * return: Always 0
+ * return: Always 0 (success)
  */
 
 using namespace std;
